@@ -63,7 +63,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBracketsTest.onlyBracketsReturnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BalancedBracketsTest.balancedBracketsBothMidWordReturnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
       <extension name="coverage">
         <pattern>
@@ -73,14 +73,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
-      <option name="METHOD_NAME" value="onlyBracketsReturnsTrue" />
+      <option name="METHOD_NAME" value="balancedBracketsBothMidWordReturnsTrue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBracketsTest.reversedBracketsReturnsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BalancedBracketsTest.balancedBracketsNoCharsReturnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
       <extension name="coverage">
         <pattern>
@@ -90,14 +90,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
-      <option name="METHOD_NAME" value="reversedBracketsReturnsFalse" />
+      <option name="METHOD_NAME" value="balancedBracketsNoCharsReturnsTrue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBracketsTest.startAndEndBracketsReturnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BalancedBracketsTest.balancedBracketsWithSpecialCharsReturnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
       <extension name="coverage">
         <pattern>
@@ -107,14 +107,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
-      <option name="METHOD_NAME" value="startAndEndBracketsReturnsTrue" />
+      <option name="METHOD_NAME" value="balancedBracketsWithSpecialCharsReturnsTrue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBracketsTest.threeBracketsReturnsFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BalancedBracketsTest.stringWithNoBracketsReturnsTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
       <extension name="coverage">
         <pattern>
@@ -124,7 +124,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
-      <option name="METHOD_NAME" value="threeBracketsReturnsFalse" />
+      <option name="METHOD_NAME" value="stringWithNoBracketsReturnsTrue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -159,10 +159,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BalancedBracketsTest" />
-        <item itemvalue="JUnit.BalancedBracketsTest.threeBracketsReturnsFalse" />
-        <item itemvalue="JUnit.BalancedBracketsTest.reversedBracketsReturnsFalse" />
-        <item itemvalue="JUnit.BalancedBracketsTest.startAndEndBracketsReturnsTrue" />
-        <item itemvalue="JUnit.BalancedBracketsTest.onlyBracketsReturnsTrue" />
+        <item itemvalue="JUnit.BalancedBracketsTest.stringWithNoBracketsReturnsTrue" />
+        <item itemvalue="JUnit.BalancedBracketsTest.balancedBracketsWithSpecialCharsReturnsTrue" />
+        <item itemvalue="JUnit.BalancedBracketsTest.balancedBracketsNoCharsReturnsTrue" />
+        <item itemvalue="JUnit.BalancedBracketsTest.balancedBracketsBothMidWordReturnsTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +192,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="999" height="202" key="GridCell.Tab.0.bottom" timestamp="1579575897198">
+    <state width="999" height="202" key="GridCell.Tab.0.bottom" timestamp="1579641973102">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="999" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1579575897198" />
-    <state width="999" height="202" key="GridCell.Tab.0.center" timestamp="1579575897197">
+    <state width="999" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1579641973102" />
+    <state width="999" height="202" key="GridCell.Tab.0.center" timestamp="1579641973101">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="999" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1579575897197" />
-    <state width="999" height="202" key="GridCell.Tab.0.left" timestamp="1579575897195">
+    <state width="999" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1579641973101" />
+    <state width="999" height="202" key="GridCell.Tab.0.left" timestamp="1579641973100">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="999" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1579575897195" />
-    <state width="999" height="202" key="GridCell.Tab.0.right" timestamp="1579575897197">
+    <state width="999" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1579641973100" />
+    <state width="999" height="202" key="GridCell.Tab.0.right" timestamp="1579641973101">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="999" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1579575897197" />
+    <state width="999" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1579641973101" />
     <state width="999" height="252" key="GridCell.Tab.1.bottom" timestamp="1579575194903">
       <screen x="0" y="23" width="1440" height="831" />
     </state>

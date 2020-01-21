@@ -29,10 +29,11 @@ public class BalancedBrackets {
             }
             if (ch == '[') {
                 brackets++;
-            } else if (ch == ']' && brackets == 1) {
-                    brackets--;
-                }
             }
+            if (ch == ']') {
+                brackets--;
+            }
+        }
         return brackets == 0;
     }
 }
